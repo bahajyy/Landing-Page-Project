@@ -1,0 +1,19 @@
+#navbar{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 90px;
+}
+
+#skills .items{
+    flex-direction: column;
+}
+
+#skills .items .item{
+    width: 100%;
+}
+
+.projects .project{
+    flex-direction: column;
+}
